@@ -1,0 +1,4 @@
+
+commune>=0.0.1
+pytest>=7.0.0
+python-dotenv>=0.19.0
